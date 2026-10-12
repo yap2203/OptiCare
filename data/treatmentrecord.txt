@@ -1,0 +1,6 @@
+TR640|P001|Yap Zheng Zheng|D1004|Lee Yang Yang|28-08-2025|w|s|s|22-12-2025|3.50|MED015|1
+TR063|P001|Yap Zheng Zheng|D1005|Yap Wei Xuan|28-08-2025|s|s|s|22-08-2025|20.00|MED015,MED001,MED002|2,2,1
+TR173|P001|Yap Zheng Zheng|D1006|Soo Kin Min|28-08-2025|ds|s|s|22-10-2025|3.50|MED015|1
+TR155|P006|Kah Hao Ah|D1004|Lee Yang Yang|28-08-2025|Cancer|AntiBiotic|Sleep well don't think too much|04-09-2025|1.95|MED003|3
+TR699|P007|Yap Hui Yang|D1005|Yap Wei Xuan|28-08-2025|Fever|Paracetamol|sleep not well|29-09-2025|0.50|MED001|1
+TR680|P008|Yap Kang Yao|D1008|Yap Wei Xin|28-08-2025|Fever 40 celcius|Antibiotics|sleep more|10-09-2025|0.50|MED001|1

@@ -1,0 +1,10 @@
+DoctorID | Name |
+=========================
+D1004|Lee Yang Yang|
+D1005|Yap Wei Xuan|
+D1006|Soo Kin Min|
+D0007|Yap Saw Xu|
+D1008|Yap Wei Xin|
+D1009|Kok Hui Xuan|
+D1010|Soo Min Min|
+D1014|Ming Kang Yao|

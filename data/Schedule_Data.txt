@@ -1,0 +1,12 @@
+Schedule Last Updated: 2025-08-28
+===================================
+DoctorID | Day | Status
+===================================
+D1004|Monday|Available
+D1005|Friday|Available
+D1006|Sunday|Available
+D1005|Tuesday|Available
+D1004|Tuesday|Available
+D1008|Tuesday|Available
+D1009|Friday|Available
+D1014|Monday|Available

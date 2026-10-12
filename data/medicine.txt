@@ -1,0 +1,15 @@
+MED001|Paracetamol|Pain relief & fever|1 tablet x 3/day|138|0.50
+MED002|Urophen|Cough suppressant|1 tablet x 3/day|1|12.00
+MED003|Ibuprofen|Anti-inflammatory|1 tablet x 2/day|62|0.65
+MED004|Amoxicillin|Bacterial infections|1 capsule x 3/day|31|1.20
+MED005|Cetirizine|Allergy relief|1 tablet x 1/day|100|0.75
+MED006|ORS Sachet|Hydration electrolyte|1 sachet x 3/day|200|0.30
+MED007|Omeprazole|Acid reflux relief|1 capsule x 1/day|100|1.50
+MED008|Loperamide|Anti-diarrheal|1 tablet x 2/day|45|0.80
+MED009|Salbutamol Inhaler|Asthma reliever|2 puffs x 4/day|28|15.00
+MED010|Metformin|Blood sugar control|1 tablet x 2/day|100|0.40
+MED011|Simvastatin|Cholesterol control|1 tablet x 1/day|72|0.55
+MED012|Vitamin C|Immune booster|1 tablet x 1/day|150|0.25
+MED013|Prednisolone|Anti-inflammatory steroid|1 tablet x 1/day|40|0.90
+MED014|Zinc Tablet|Supplement for healing|1 tablet x 1/day|130|0.20
+MED015|Antibiotic|For many purpose|1 tab x 3/day|118|3.50
